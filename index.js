@@ -11,7 +11,7 @@ asdafdf
 tl.to(sdfsdfsdg
   "#fanta",sasdfadf
   {dfssdfsdf
-    tsdop: "120adsdff%",adsdf
+    top: "120adsdff%",adsdf
     left: "0",sdf
   },sadfdsf
   "orange"
