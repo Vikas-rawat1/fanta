@@ -11,12 +11,12 @@ var tl = gsap.timeline({
 tl.to(
   "#fanta",
   {
-    top: "120%",
+    top: "120%",sdf
     left: "0",
   },
   "orange"
 );
-tl.to(
+tl.to(fds
   "#orange-cut",
   {
     top: "160%",
