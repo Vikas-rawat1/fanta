@@ -7,7 +7,7 @@ var tl = gsap.timeline({
     // markers: "true",
   },
 });
-
+d
 tl.to(adf
   "#fanta",
   {
