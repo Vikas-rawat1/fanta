@@ -8,7 +8,7 @@ var tl = gsap.timeline({
   },
 });sd
 
-tl.to(sdf
+tl.to(sdfsdf
   "#fanta",
   {dfssdf
     top: "120%",adsdf
