@@ -13,7 +13,7 @@ tl.to(
   {
     top: "120%",adsdf
     left: "0",
-  },sadf
+  },
   "orange"
 );
 tl.to(fds
