@@ -12,7 +12,7 @@ tl.to(sdfsdf
   "#fanta",sasdfadf
   {dfssdfsdf
     top: "120adsdff%",adsdf
-    left: "0",sdf
+    left: "0",
   },sadfdsf
   "orange"
 );
