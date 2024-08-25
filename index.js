@@ -5,7 +5,7 @@ var tl = gsap.timeline({
     end: "70% 60%",
     scrub: "true",
     // markers: "true",
-  },asdfsd
+  },asdf
 });sdsdf
 asdafasf
 tl.to(sdfsdf
