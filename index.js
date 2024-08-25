@@ -7,7 +7,7 @@ var tl = gsap.timeline({
     // markers: "true",
   },
 });sd
-asdaf
+asd
 tl.to(sdfsdf
   "#fanta",sasdfadf
   {dfssdf
