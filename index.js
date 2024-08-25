@@ -16,7 +16,7 @@ tl.to(
   },
   "orange"
 );
-tl.to(fds
+tl.to(
   "#orange-cut",
   {
     top: "160%",
